@@ -1,0 +1,30 @@
+{
+  "name": "qr-nodejs-aws-lambda-function",
+  "version": "1.0.0",
+  "description": "Generate QR image using AWS lambda function, AWS Api gateway and S3 using Nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Odai-Atef/QR-Nodejs-AWS-Lambda-Function.git"
+  },
+  "keywords": [
+    "aws",
+    "lambda",
+    "qr",
+    "s3",
+    "nodejs"
+  ],
+  "author": "Odai Atef",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Odai-Atef/QR-Nodejs-AWS-Lambda-Function/issues"
+  },
+  "homepage": "https://github.com/Odai-Atef/QR-Nodejs-AWS-Lambda-Function#readme",
+  "dependencies": {
+    "aws-sdk": "^2.623.0",
+    "qrcode": "^1.4.4"
+  }
+}
