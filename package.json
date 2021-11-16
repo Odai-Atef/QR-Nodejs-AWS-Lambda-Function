@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/Odai-Atef/QR-Nodejs-AWS-Lambda-Function#readme",
   "dependencies": {
-    "aws-sdk": "^2.623.0",
+    "aws-sdk": "^2.814.0",
     "qrcode": "^1.4.4"
   }
 }
